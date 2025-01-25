@@ -2,6 +2,9 @@
 
 Welcome to the Machine Learning Project! This repository contains all the resources, code, and data used in our project, along with links to the project website and data files.
 
+This repository contains all the assignments and projects for the **Generative AI** subject.
+
+
 ## Project Overview
 This project focuses on exploring and applying various machine learning techniques to solve real-world problems. The project includes:
 - Development of machine learning models
@@ -27,6 +30,12 @@ This project was collaboratively developed by the following team members:
 - `Code.ipynb`: Contains the Jupyter Notebook used for code implementation.
 - `Data`: Includes all the datasets used in the project (accessible via the provided data files link).
 - `Documentation`: Additional resources and detailed explanations of the methodologies.
+
+## 📌 **Note**
+If the `.ipynb` files are not rendering correctly on GitHub, you can view them using **nbviewer**:
+1. Go to [nbviewer](https://nbviewer.org/).
+2. Paste the URL of the `.ipynb` file in the input box.
+3. Click "Go" to view the notebook.
 
 ## How to Use
 1. Visit the [Project Website](https://nivedithanmurthy.github.io/Machine_Learnig_Webpage/) for a detailed overview of our work.
